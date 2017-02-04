@@ -1,5 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Switch.h"
-#include "SwitchGameModeBase.h"
+#include "MainPlayerController.h"
+
+
 

@@ -13,7 +13,4 @@ class SWITCH_API ASwitchGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
-	
-	
 };
