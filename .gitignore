@@ -1,0 +1,11 @@
+*/Build/
+*/Binaries/
+*/Config/DefaultEditor.ini
+*/Content/Switch/Development/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+*.sln
+*.sdf
+*.suo
+*.VC.db
