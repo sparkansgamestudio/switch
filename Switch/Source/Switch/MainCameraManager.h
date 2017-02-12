@@ -3,13 +3,13 @@
 #pragma once
 
 #include "Camera/PlayerCameraManager.h"
-#include "HeroCameraManager.generated.h"
+#include "MainCameraManager.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class SWITCH_API AHeroCameraManager : public APlayerCameraManager
+class SWITCH_API AMainCameraManager : public APlayerCameraManager
 {
 	GENERATED_BODY()
 	
